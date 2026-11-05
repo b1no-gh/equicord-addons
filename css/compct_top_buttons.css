@@ -1,3 +1,4 @@
+/* compact Home,Friends,Etc buttons */
 @container style(--dms-tabs:true) {
     .scroller__99e7c[data-list-id^="private-channels-uid_"] {
         scrollbar-width: 0;
