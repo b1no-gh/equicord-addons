@@ -1,4 +1,3 @@
-/* Highlight server icons */
 [aria-label="Servers"] {
     [data-list-item-id^="guildsnav"][aria-selected="false"] {
         filter: brightness(70%) saturate(70%);
@@ -6,7 +5,7 @@
     }
     [data-list-item-id^="guildsnav"][aria-selected="true"] {filter: none}
 }
-/* Highlight folder icons */
+
 .folderButton__48112[aria-expanded="false"] {
     .folderButtonInner__48112 {
         filter: brightness(60%) saturate(70%);
